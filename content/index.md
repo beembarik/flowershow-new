@@ -1,6 +1,5 @@
 Welcome to my blog!
 
-
 السلام عليكم ورحمة الله وبركاتة
 
 Blog ini berisi catatan saya selama belajar tahsin tilawah—tahfizh di RQA
