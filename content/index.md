@@ -1,5 +1,4 @@
 ---
-title: 
 date: 2023-11-01
 showToc:
   - "true"
