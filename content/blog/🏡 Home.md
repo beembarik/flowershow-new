@@ -1,5 +1,5 @@
 ---
-titleicon: 📎
+titleicon: Home
 coverurl: https://img.jxpeng.dev/2023/08/843e27a210847f05a0f7cfb121fec100.jpg
 type: Post
 slug: trial-post1
