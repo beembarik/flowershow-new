@@ -1,3 +1,11 @@
+---
+title: Home
+date: 2023-11-01
+showToc:
+  - "true"
+---
+
+
 Welcome to my blog!
 
 السلام عليكم ورحمة الله وبركاتة
