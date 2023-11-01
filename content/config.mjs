@@ -7,7 +7,6 @@ const config = {
   // links to the pages you want to link to in the navbar and in the footer
   navLinks: [{ href: "/blog", name: "Blog" }],
 };
-
 const userConfig = {
   ...
   navbarTitle: {
@@ -15,4 +14,4 @@ const userConfig = {
     logo: "/components/Avatar.js", // optional
   },
 };
-export default {};
+export default config;
