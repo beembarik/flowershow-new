@@ -17,6 +17,6 @@ Catatan tahsin bisa diakses di  [sini!](blog)
 </div>
 <div class="display: flex;">
  <p align="center">
-  <button class="inline"><a href="https://flowershow-new.vercel.app/contact">Get in Touch</button>
+  <button class="inline"><a href="https://flowershow-new.vercel.app">Get in Touch</button>
  </p>
 </div>
