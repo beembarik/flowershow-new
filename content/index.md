@@ -7,16 +7,3 @@ Berapa catatan mungkin saya beri tambahan atau mengalami penyesuaian karena kont
 
 والسلام عليكم ورحمة الله وبركاتة
 
-
-Catatan tahsin bisa diakses di  [sini!](blog)
-
-<div class="display: flex;">
- <p align="center">
-  <button class="inline"><a href="https://flowershow-new.vercel.app/blog">Baca Blog</button>
-  </p>
-</div>
-<div class="display: flex;">
- <p align="center">
-  <button class="inline"><a href="https://flowershow-new.vercel.app">Get in Touch</button>
- </p>
-</div>
